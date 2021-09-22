@@ -12,7 +12,7 @@ For Linux or MacOS users, you may install **Docker** on your computer.
 
 ## Download the essential files
 
-All the files can be downloaded [here](), you need to extract it and put the folder **images_saved** under your home folder (**/home/your_user_name**).
+All the files can be downloaded [here](https://drive.google.com/file/d/1kDOSnQFzHOhcRhrey65lWKaSdBddNUlz/view?usp=sharing), you need to extract it and put the folder **images_saved** under your home folder (**/home/your_user_name**).
 
 ## Install all the docker images
 
