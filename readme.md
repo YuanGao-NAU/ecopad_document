@@ -65,7 +65,7 @@ And the public key should be:
 Open the ssh service config file:
 
 ```
-sudo vim /etc/ssh
+sudo vim /etc/ssh/sshd_config
 ```
 
 Add the following 3 lines:
