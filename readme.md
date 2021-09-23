@@ -6,9 +6,13 @@ This repo is a document which will guide you to install [EcoPAD](https://ecolab.
 
 For Windows users, you may install either **[VirtualBox](https://www.virtualbox.org/)** or **[VMware WorkStation](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)** on your computer and set up a **Ubuntu 20.04** virtual machine to do the following steps.
 
-### Linux && MacOS
+### Linux
 
-For Linux or MacOS users, you may install **Docker** on your computer.
+For Linux users, you may install **Docker** on your computer.
+
+### MacOS
+
+For MacOS users, you may try to apply for a personal use license for **VMware Fusion** and install a **install Ubuntu 20.04** virtual machine to do the following steps.
 
 ## Download the essential files
 
@@ -90,7 +94,3 @@ bash restart_docker
 
 Open [this link](http://127.0.0.1/api/queue) and login use the username and password you already know. At this time you may follow the PDF file we used before to
  test the **test** api. 
- 
- If you succeed, congratulations! You did a great job as a newbie to a new field! If not, feel free to talk to me.
-
-
