@@ -4,7 +4,7 @@ This repo is a document which will guide you to install [EcoPAD](https://ecolab.
 
 ### Windows
 
-For Windows users, you may install **WSL** and **Docker for Windows** on your PC and then do all the following steps within the WSL. Ubuntu 20.04 is recommended.
+For Windows users, you may install either **[VirtualBox](https://www.virtualbox.org/)** or **[VMware WorkStation](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)** on your computer and set up a **Ubuntu 20.04** virtual machine to do the following steps.
 
 ### Linux && MacOS
 
