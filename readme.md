@@ -1,4 +1,4 @@
-This repo is a document which will guide you to install [EcoPAD](https://ecolab.nau.edu/ecopad) in [Dr. Yiqi Luo's EcoLAB](https://www2.nau.edu/luo-lab/).
+This repo is a document which will guide you to install [EcoPAD](https://ecolab.nau.edu/ecopad) of [Dr. Yiqi Luo's EcoLAB](https://www2.nau.edu/luo-lab/).
 
 ## Preparation
 
