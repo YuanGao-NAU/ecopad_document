@@ -32,6 +32,7 @@ docker load -i api.tar
 docker load -i celery.tar
 docker load -i memcached.tar
 docker load -i mongo.tar
+docker load -i nginx.tar
 docker load -i rabbitmq.tar
 docker load -i test.tar
 ```
