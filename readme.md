@@ -14,6 +14,10 @@ For Linux users, you may install **Docker** on your computer.
 
 For MacOS users, you may try to apply for a personal use license for **[VMware Fusion](https://www.vmware.com/products/fusion.html)** and install a **Ubuntu 20.04** virtual machine to do the following steps.
 
+## Install Docker
+
+Please refer to [this site](https://docs.docker.com/engine/install/ubuntu/) for the instructions.
+
 ## Download the essential files
 
 All the files can be downloaded [here](https://drive.google.com/file/d/1kDOSnQFzHOhcRhrey65lWKaSdBddNUlz/view?usp=sharing), you need to extract it and put the folder **images_saved** under your home folder (**/home/your_user_name**).
