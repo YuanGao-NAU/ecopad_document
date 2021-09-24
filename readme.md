@@ -20,7 +20,7 @@ All the files can be downloaded [here](https://drive.google.com/file/d/1kDOSnQFz
 
 ## Install all the docker images
 
-Extract the files and then put the images_saved folder under your home:
+Extract the files and then put the images_saved folder under your home, then locate to the folder:
 ```Bash
 cd /home/YOUR_USER_NAME/images_saved
 ```
