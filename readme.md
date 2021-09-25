@@ -4,9 +4,11 @@ This repo is a document which will guide you to install [EcoPAD](https://ecolab.
 
 To run the EcoPAD on your computer, you need to meet the following requirements for your computer if you are running Linux. For the Virtual Machines, allocate the required resources:
 
+```
 Number of cores: ≥ 2
 RAM: 4GB
 **Disk: 100GB (required)**
+```
 
 ### Windows
 
