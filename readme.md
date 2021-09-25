@@ -54,7 +54,7 @@ newgrp docker
 
 ## Download the essential files
 
-All the files can be downloaded from [Google Drive](https://drive.google.com/file/d/1kDOSnQFzHOhcRhrey65lWKaSdBddNUlz/view?usp=sharing). **You must login in using your NAU email to access the file.** You need to extract it and put the folder **images_saved** under your home folder (**/home/your_user_name**).
+All the files can be downloaded from [Google Drive](https://drive.google.com/file/d/1kDOSnQFzHOhcRhrey65lWKaSdBddNUlz/view?usp=sharing). **You must login with your NAU email to access the file.** You need to extract it and put the folder **images_saved** under your home folder (**/home/your_user_name**).
 
 ## Install all the docker images
 
