@@ -7,7 +7,7 @@ To run the EcoPAD on your computer, you need to meet the following requirements 
 ```
 Number of cores: ≥ 2
 RAM: 4GB
-**Disk: 100GB (required)**
+Disk: 100GB (required)
 ```
 
 ### Windows
