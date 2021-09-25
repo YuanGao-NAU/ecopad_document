@@ -1,14 +1,20 @@
 This repo is a document which will guide you to install [EcoPAD](https://ecolab.nau.edu/ecopad) of [Dr. Yiqi Luo's EcoLAB](https://www2.nau.edu/luo-lab/).
 
-## Preparation
+## System requirements
+
+To run the EcoPAD on your computer, you need to meet the following requirements for your computer if you are running Linux. For the Virtual Machines, allocate the required resources:
+
+Number of cores: ≥ 2
+RAM: 4GB
+**Disk: 100GB (required)**
 
 ### Windows
 
 For Windows users, you may install either **[VirtualBox](https://www.virtualbox.org/)** or **[VMware WorkStation](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)** on your computer and set up a **Ubuntu 20.04** virtual machine to do the following steps.
 
-### Linux
+### Ubuntu (Linux)
 
-For Linux users, you may install **Docker** on your computer.
+For Ubuntu users, you may install **Docker** on your computer.
 
 ### MacOS
 
@@ -16,7 +22,33 @@ For MacOS users, you may try to apply for a personal use license for **[VMware F
 
 ## Install Docker
 
-Please refer to [this site](https://docs.docker.com/engine/install/ubuntu/) for the instructions.
+```Bash
+sudo apt-get update && sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg \
+    lsb-release
+```
+
+```Bash
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+```
+
+```Bash
+echo \
+  "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+```
+
+**Note: If there's anything wrong and you can not install Docker, just repeat the process.**
+
+Use the following commands to add current user to the docker user group.
+```Bash
+sudo groupadd docker
+sudo usermod -a -G docker $USER
+newgrp docker
+```
 
 ## Download the essential files
 
