@@ -16,13 +16,13 @@ For Windows users, you may install either **[VirtualBox](https://www.virtualbox.
 
 ### Ubuntu (Linux)
 
-For Ubuntu users, you may install **Docker** on your computer.
+For Linux users, you may install **Docker** on your computer. **Ubuntu 20.04** is highly recommended.
 
 ### MacOS
 
 For MacOS users, you may try to apply for a personal use license for **[VMware Fusion](https://www.vmware.com/products/fusion.html)** and install a **Ubuntu 20.04** virtual machine to do the following steps.
 
-## Install Docker
+## Install Docker on Ubuntu
 
 ```Bash
 sudo apt-get update && sudo apt-get install \
