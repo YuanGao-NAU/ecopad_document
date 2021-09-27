@@ -9,6 +9,7 @@ Number of cores: ≥ 2
 RAM: 4GB
 Disk: 100GB (required)
 ```
+Note: To install the VM in a non-OS disk drive, you can change the Virtual Machines Global setting/General to other dirves. 
 
 ### Windows
 
