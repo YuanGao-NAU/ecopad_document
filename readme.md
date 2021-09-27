@@ -134,3 +134,8 @@ bash restart_docker
 
 Open [this link](http://127.0.0.1/api/queue) and login use the username and password you have already known. At this time you may follow the PDF file we used before to
  test the **test** api. 
+
+If you install EcoPAD successfully, you should be able to see the following page.
+ 
+![image](https://user-images.githubusercontent.com/41300367/134951604-f86f4a78-a8d8-4914-87bf-2107c9f39e24.png)
+
