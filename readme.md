@@ -9,11 +9,12 @@ Number of cores: ≥ 2
 RAM: 4GB
 Disk: 100GB (required)
 ```
-Note: To install the VM in a non-OS disk drive, you can change the VirtualBox Global setting/General to other dirves. 
 
 ### Windows
 
 For Windows users, you may install either **[VirtualBox](https://www.virtualbox.org/)** or **[VMware WorkStation](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)** on your computer and set up a **Ubuntu 20.04** virtual machine to do the following steps.
+
+**Note**: To install the VM in a non-OS disk drive, you can change the VirtualBox Global setting/General to other dirves. 
 
 ### Ubuntu (Linux)
 
