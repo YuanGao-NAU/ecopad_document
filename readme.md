@@ -24,6 +24,13 @@ For Linux users, you may install **Docker** on your computer. **Ubuntu 20.04** i
 
 For MacOS users, you may try to use [UTM](https://mac.getutm.app/) or apply for a personal use license for **[VMware Fusion](https://www.vmware.com/products/fusion.html)** and install a **Ubuntu 20.04** virtual machine to do the following steps.
 
+## Install SSH server
+
+```Bash
+sudo apt-get update
+sudo apt-get install openssh-server -y
+```
+
 ## Install Docker on Ubuntu
 
 ```Bash
