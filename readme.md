@@ -130,6 +130,7 @@ AuthorizedKeysFile  .ssh/id_rsa.pub
 ```
 
 save and exit: :wq
+
 exit without edits: :q!
 
 ## Launch the docker containers
