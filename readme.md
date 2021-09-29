@@ -75,6 +75,7 @@ cd /home/YOUR_USER_NAME/images_saved
 Run the following commands to install all the images:
 
 ```
+sudo apt install docker.io
 docker load -i api.tar
 docker load -i celery.tar
 docker load -i memcached.tar
@@ -127,6 +128,9 @@ RSAAuthentication yes
 PubkeyAuthentication yes
 AuthorizedKeysFile  .ssh/id_rsa.pub
 ```
+
+save and exit: :wq
+exit without edits: :q!
 
 ## Launch the docker containers
 
