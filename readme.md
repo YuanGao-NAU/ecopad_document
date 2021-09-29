@@ -88,7 +88,14 @@ docker load -i test.tar
 
 Once you have installed all the docker images, you need to make some modification to the **restart_docker** file. Open it with a text editor and replace the **host_ip**
  with your own ip address. Once you down, save and close the file.
- 
+
+check host_ip in the terminal: 
+
+```Bash
+sudo apt install net-tools
+ifconfig -a
+```
+
 ## Use Key instead of password to log in to your computer
 
 First, locate to the folder:
