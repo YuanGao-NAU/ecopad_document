@@ -108,6 +108,7 @@ Run the following command to create a new key:
 
 ```Bash
 ssh-keygen # You don't have to input anything, just use Enter to continue
+ssh-keygen -p -m PEM -f ~/.ssh/id_rsa   # You don't have to input anything, just use Enter to continue
 ```
 
 If you didn't change the name of the key, the path of the private key should be:
